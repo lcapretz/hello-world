@@ -1,4 +1,4 @@
 # hello-world
 This is my hello-world git
 
-This seems to useful and fun!
+This seems to be useful and fun!
